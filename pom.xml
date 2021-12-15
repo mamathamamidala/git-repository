@@ -5,8 +5,7 @@
 	<artifactId>webappExample</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1</version>
-	<name>webappExample Maven Webapp</name>
-	<name>chitti</name>
+	<name>webappExample Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
